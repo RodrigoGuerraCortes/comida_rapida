@@ -1,0 +1,13 @@
+*.pyc
+*.log
+*.csv
+*.xls
+*.pdf
+*.dump
+*.out
+*.sqlite3
+ventas/migrations/*
+media/ckeditor/*
+media/*
+config.py
+
